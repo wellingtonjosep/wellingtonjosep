@@ -5,8 +5,6 @@
 
 <div>
 <a href="https://github.com/wellingtonjosep">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=wellingtonjosep
-&show_icons=true&theme=tokyonight&custom_title=My%20Github%20Stats"/>
 </div>
 
    <a href="https://www.linkedin.com/in/wellington-jos%C3%A9-5580391b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
