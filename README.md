@@ -1,7 +1,7 @@
 ### Olá, Meu nome é wellington. Seja bem vindo!
 
 - ✨ Atualmente estudo desenvolvimento Full-Stack, mas ja tenho contato com a área da tecnologia desde os 15 anos de idade.
-- 💎 Estudante de desenvolvimento Full-Stack na Kenzie Academy Brasil.
+- 💎Dsenvolvimento Full-Stack na Kenzie Academy Brasil.
 
 <div>
 <a href="https://github.com/wellingtonjosep">
